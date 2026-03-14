@@ -8,13 +8,14 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [NewRa AI](https://www.newra.ai/)
+- 🔭 I’m currently working on [Genieverse](https://www.genieverse.travel/)
   
 
 - 🌱 I’m currently learning **Prompt Engineering** for 10x faster development.
-  
+- 🌱 Experianced AI Native Developer who can work on any tech stack using AI Tools like Claude CLI, Cursor, Github Co-Pilot and deliverflawless result with 10x faster development.
 
-- 💬 Ask me about **HTML5, CSS3, SCSS, ReactJS UI, Angular UI, W3C Accessibility**.
+
+- 💬 Ask me about **HTML5, CSS3, SCSS, Javascript, ReactJS UI, Angular UI, W3C Accessibility**.
   
 
 - ⚡ Fun fact **I'm constantly exploring new tech—there’s always something exciting to learn in the world of code!**
@@ -37,13 +38,24 @@
 
 ### Frontend  
 <div align="left">  
-<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/css.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/html.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/css.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/javascript.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/tailwind-plain.svg" alt="Tailwind" height="50" />  
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/frontend/react.svg" alt="React" height="50" /> 
 </div></td><td valign="top" width="33%">
 
+### AI Tools
+<div align="left">   
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/version-control/claude.svg" alt="Claude" height="40" />    
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/version-control/claude.svg" alt="Cursor" height="40" />
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/version-control/githubcopilot.svg" alt="Github Copilot" height="40" />
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/version-control/google_antigravity.svg" alt="Google Antigravity" height="40" />
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/version-control/openai.svg" alt="openai" height="40" />
+<img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/version-control/windsurf.svg" alt="windsurf" height="40" />
+</div></td><td valign="top" width="33%">
+  
 ### Version Control
 <div align="left">   
 <img style="margin: 10px" src="https://github.com/rajanrajgor/rajanrajgor/blob/main/images/version-control/git-scm-icon.svg" alt="GIT" height="50" />    
