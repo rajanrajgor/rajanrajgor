@@ -12,7 +12,7 @@
 <hr/>
 <br/>
 
-- 🌱 Experianced <strong>AI Native Developer</strong> who can work on any tech stack using AI Tools like Claude CLI, Github Co-Pilot and deliver flawless result with 10x faster development.
+- 🌱 Experianced <strong>AI Native Developer</strong> who can work on any tech stack using AI Tools like Claude CLI, Github Co-Pilot and deliver flawless result with 10x faster development
 
 - 💬 Ask me about <strong>HTML5, CSS3, SCSS, Javascript, ReactJS UI, Angular UI, W3C Accessibility</strong>
 
