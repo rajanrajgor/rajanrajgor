@@ -4,22 +4,20 @@
 <h1 align="center">👋 I'm Rajan Rajgor</h1>
 <h3 align="center">Developer Augmented by AI</h3>
 <br/>
-<div align="center">
-🌱 Experianced <strong>AI Native Developer</strong> who can work on any tech stack using AI Tools like Claude CLI, Github Co-Pilot and deliver flawless result with 10x faster development.
-<br/>
-<br/>
-💬 Ask me about <strong>HTML5, CSS3, SCSS, Javascript, ReactJS UI, Angular UI, W3C Accessibility</strong>
-<br/>
-<br/>
-⚡ Fun fact <strong>I'm constantly exploring new tech — there’s so much new and exciting things to learn in this new Age of AI</strong>
-</div>
+
+- 🌱 Experianced <strong>AI Native Developer</strong> who can work on any tech stack using AI Tools like Claude CLI, Github Co-Pilot and deliver flawless result with 10x faster development.
+
+- 💬 Ask me about <strong>HTML5, CSS3, SCSS, Javascript, ReactJS UI, Angular UI, W3C Accessibility</strong>
+
+- ⚡ Fun fact <strong>I'm constantly exploring new tech — there’s so much new and exciting things to learn in this new Age of AI</strong>
+
 
 <br/> 
 <br/>  
 
 <div align="center">
 ![Totals Hits](https://komarev.com/ghpvc/?username=rajanrajgor&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajanrajgor&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajanrajgor&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
 </div>
 
 <br>
